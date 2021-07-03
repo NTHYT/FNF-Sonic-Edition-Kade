@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="negawisparmor_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negawisparmor down0000" x="269" y="1410" width="2914" height="3000" frameX="8" frameY="0" frameWidth="2914" frameHeight="3000"/>
+	<SubTexture name="negawisparmor down0001" x="3158" y="1410" width="2914" height="3000" frameX="8" frameY="0" frameWidth="2914" frameHeight="3000"/>
+	<SubTexture name="negawisparmor idle0000" x="5913" y="1955" width="2780" height="3000" frameX="0" frameY="0" frameWidth="2780" frameHeight="3000"/>
+	<SubTexture name="negawisparmor idle0001" x="8805" y="2082" width="2780" height="3000" frameX="0" frameY="0" frameWidth="2780" frameHeight="3000"/>
+	<SubTexture name="negawisparmor idle0002" x="11580" y="2172" width="2780" height="3000" frameX="26" frameY="0" frameWidth="2780" frameHeight="3000"/>
+	<SubTexture name="negawisparmor idle0003" x="14" y="6279" width="2780" height="3000" frameX="26" frameY="0" frameWidth="2780" frameHeight="3000"/>
+	<SubTexture name="negawisparmor left0000" x="2636" y="5909" width="2610" height="3000" frameX="12" frameY="0" frameWidth="2610" frameHeight="3000"/>
+	<SubTexture name="negawisparmor left0001" x="5178" y="5909" width="2610" height="3000" frameX="12" frameY="0" frameWidth="2610" frameHeight="3000"/>
+	<SubTexture name="negawisparmor left0002" x="7766" y="5909" width="2610" height="3000" frameX="0" frameY="0" frameWidth="26l" frameHeight="3000"/>
+	<SubTexture name="negawisparmor right0000" x="10475" y="5813" width="2596" height="3000" frameX="0" frameY="0" frameWidth="2596" frameHeight="3000"/>
+	<SubTexture name="negawisparmor right0001" x="13055" y="5813" width="2596" height="3000" frameX="0" frameY="0" frameWidth="2596" frameHeight="3000"/>
+	<SubTexture name="negawisparmor right0002" x="69" y="10040" width="2596" height="3000" frameX="39" frameY="0" frameWidth="2596" frameHeight="3000"/>
+	<SubTexture name="negawisparmor up0000" x="2625" y="9960" width="2540" height="3000" frameX="22" frameY="0" frameWidth="2540" frameHeight="3000"/>
+	<SubTexture name="negawisparmor up0001" x="5155" y="9960" width="2540" height="3000" frameX="22" frameY="0" frameWidth="2540" frameHeight="3000"/>
+	<SubTexture name="negawisparmor up0002" x="7730" y="9960" width="2540" height="3000" frameX="3" frameY="0" frameWidth="2540" frameHeight="3000"/>
+</TextureAtlas>

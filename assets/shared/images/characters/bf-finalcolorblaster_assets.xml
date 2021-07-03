@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-finalcolorblaster_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-finalcolorblaster NOTE DOWN0000" x="591" y="804" width="580" height="831" frameX="-1" frameY="-5" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE DOWN0001" x="1169" y="859" width="580" height="831" frameX="-1" frameY="-5" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE DOWN0002" x="1726" y="804" width="580" height="831" frameX="0" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE DOWN MISS0000" x="2282" y="804" width="580" height="831" frameX="-1" frameY="-35" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE DOWN MISS0001" x="2841" y="845" width="580" height="831" frameX="-1" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE LEFT0000" x="3397" y="845" width="580" height="831" frameX="0" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE LEFT0001" x="0" y="1660" width="580" height="831" frameX="0" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE LEFT0002" x="584" y="1660" width="580" height="831" frameX="-11" frameY="-2" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE LEFT MISS0000" x="1168" y="1660" width="580" height="831" frameX="0" frameY="-26" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE LEFT MISS0001" x="1754" y="1660" width="580" height="831" frameX="-17" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE RIGHT0000" x="2342" y="1660" width="580" height="831" frameX="-2" frameY="-2" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE RIGHT0001" x="2930" y="1669" width="580" height="831" frameX="-2" frameY="-2" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE RIGHT0002" x="3495" y="1660" width="580" height="831" frameX="0" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE RIGHT MISS0000" x="0" y="2459" width="580" height="831" frameX="-13" frameY="-30" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE RIGHT MISS0001" x="565" y="2513" width="580" height="831" frameX="0" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE UP0000" x="1126" y="2513" width="580" height="831" frameX="-6" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE UP0001" x="1704" y="2513" width="580" height="831" frameX="-6" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE UP0002" x="2259" y="2513" width="580" height="831" frameX="0" frameY="-5" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE UP MISS0000" x="2799" y="2513" width="580" height="831" frameX="-12" frameY="0" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster NOTE UP MISS0001" x="3345" y="2513" width="580" height="831" frameX="0" frameY="-13" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0000" x="0" y="0" width="580" height="831" frameX="-1" frameY="-20" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0001" x="569" y="0" width="580" height="831" frameX="-1" frameY="-20" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0002" x="1160" y="0" width="580" height="831" frameX="0" frameY="-19" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0003" x="1786" y="0" width="580" height="831" frameX="0" frameY="-19" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0004" x="2386" y="0" width="580" height="831" frameX="-3" frameY="-14" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0005" x="2996" y="0" width="580" height="831" frameX="-3" frameY="-14" frameWidth="580" frameHeight="831"/>
+	<SubTexture name="bf-finalcolorblaster idle dance0006" x="0" y="804" width="580" height="831" frameX="-1" frameY="-1" frameWidth="580" frameHeight="831"/>
+</TextureAtlas>
