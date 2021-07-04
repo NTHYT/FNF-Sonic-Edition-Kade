@@ -1,6 +1,7 @@
 # Friday Night Funkin': Sonic Edition
 ## Friday Night Funkin': Sonic Edition
 **FNF Sonic Edition** is a mod created by me that aims to replace all assets from the og game with sonic stuff.
+
 Links: **[GameBanana mod page](https://gamebanana.com/mods/44290)**
 
 ## Friday Night Funkin'
